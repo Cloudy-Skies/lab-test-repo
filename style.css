@@ -26,10 +26,7 @@ html {
   display: flex;
   flex-flow: row wrap;
   margin: 2%;
-  /*border-color: red;
-  border: 20%;*/
   align-items: flex-start;
-
 }
 
 .form-box .field-group input {
